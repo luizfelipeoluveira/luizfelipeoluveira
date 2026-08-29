@@ -6,5 +6,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 - 🚀 Preparando-se para o mercado de tecnologia
 
 ## 📬Como me encontrar
-[![Gmail](https://shields.io)](mailto:luizfelipeoluveira123@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfelipeoluveira123@gmail.com)
 ```
