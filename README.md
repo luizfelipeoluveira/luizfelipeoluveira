@@ -4,3 +4,7 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   Aprendendo  Python 
 - 🧑🏾‍💻 Gosto muito de programar e de aprender novas coisas
 - 🚀 Preparando-se para o mercado de tecnologia
+
+## 📬Como me encontrar
+[![Gmail](https://shields.io)](mailto:luizfelipeoluveira123@gmail.com)
+```
